@@ -1,2 +1,5 @@
-# PS-Roomintro-tool
-A PS Roomintro tool
+# Roomintro-Tool
+A Roomintro tool for Pokemon Showdown
+
+# Watch it running
+[Click Me](https://rawgit.com/KewlStatics/Roomintro-Tool/gh-pages/index.html) 
